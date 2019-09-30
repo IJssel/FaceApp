@@ -8,7 +8,7 @@
 
 https://ai.qq.com/cgi-bin/appdemo_detectface
 
-![6bb70b2d73a368d22955abe9724512b](C:\Users\lichen\Desktop\6bb70b2d73a368d22955abe9724512b.jpg)
+![1](1.jpg)
 
 
 
@@ -16,7 +16,7 @@ https://ai.qq.com/cgi-bin/appdemo_detectface
 
  [下载.jfif](..\下载.jfif) 
 
-![31ef87d975f061a7dc0617b6e3d35ad](C:\Users\lichen\Desktop\31ef87d975f061a7dc0617b6e3d35ad.jpg)
+![2](2.jpg)
 
 
 
